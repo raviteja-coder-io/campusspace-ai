@@ -75,3 +75,5 @@ CampusSpace AI is a prototype developed for the VIT-AP DATATHON 2026 Education T
 ## 👥 Contributors
 
 Developed as a student project for **VIT-AP DATATHON 2026 — Track 2: Education**.
+
+DEPLOYMENT LINK: https://campusspace-ai-black.vercel.app/
